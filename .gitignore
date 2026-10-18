@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.swp
+__pycache__/
+
+# Large media files — upload to GitHub Releases instead
+*.mp4
+*.mov
+*.avi
